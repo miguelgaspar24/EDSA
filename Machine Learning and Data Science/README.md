@@ -20,7 +20,8 @@ who bought the offer were tagged with a 1 whereas the non-respondents were tagge
 Hopefully the model will allow the company to cherry pick the customers that are most likely to purchase the offer, while leaving out the non-responders, making the next
 campaign highly profitable.
 
-## Dataset
+## Data
+
 The dataset includes the following variables:
 
 | Variable | Description |
