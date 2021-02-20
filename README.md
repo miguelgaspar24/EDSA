@@ -4,6 +4,14 @@ This repository showcases some of the projects developed for several topics of t
 
 Covered topics include:
 
- - Machine Learning and Data Science (predictive model of customer marketing campaign acceptance)
- - Enterprise Data Science Bootcamp (user-based recommender system for healthcare products using customer historical purchase data) 
- - Deep Learning Neural Networks (convolutional neural network for classification of wild animals in images captured by wild cameras)
+ - Deep Learning Neural Networks
+
+     - Tested and optimized several convolutional neural network architectures for classifying wild animals in images captured by wild cameras;
+  
+ - Enterprise Data Science Bootcamp
+
+     - Built a user-based product recommender system using customer historical purchase data;
+
+ - Machine Learning and Data Science
+
+     - Developed and optimized a predictive model of customer marketing campaign acceptance.
