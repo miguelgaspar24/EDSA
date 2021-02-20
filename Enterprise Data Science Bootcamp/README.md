@@ -18,8 +18,8 @@ Given the data restrictions from our customer, we are not allowed to share inter
 The dataset consists in two different files with the following variables:
 
 • stock.csv - transactional information about sales of products
-| **Variable** | **Description** |
-| ------------ | --------------- |
+| Variable | Description |
+| -------- | ----------- |
 | country_code | Code of the country |
 | cac | customer |
 | product_code | product sold |
@@ -31,8 +31,8 @@ The dataset consists in two different files with the following variables:
 
 • product_master.csv - To complement the file above with more details about
 the product.
-| **Variable** | **Description** |
-| ------------ | --------------- |
+| Variable | Description |
+| -------- | ----------- |
 | bravo_ww_fran_name | company designation for the global group |
 | bravo_fran_name | company designation for a region of the group |
 | bravo_sub_fran_name | company area |
